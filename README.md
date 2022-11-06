@@ -1,2 +1,2 @@
 # Property-Prediction
-A property price prediction application on Bengaluru properties dataset.
+<h2> A property price prediction application on Bengaluru properties dataset. </h2>
